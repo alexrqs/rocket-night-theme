@@ -1,9 +1,10 @@
 {
-    "name": "rocket-theme",
-    "displayName": "rocket-theme",
-    "description": "theme",
+    "name": "rocket-night-theme",
+    "displayName": "rocket-night-theme",
+    "description": "Rocket Night Theme",
     "version": "0.0.1",
     "publisher": "alexrqs",
+    "icon": "images/icon.jpeg",
     "engines": {
         "vscode": "^1.58.0"
     },
