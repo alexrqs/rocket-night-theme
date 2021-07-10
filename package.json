@@ -1,0 +1,22 @@
+{
+    "name": "rocket-theme",
+    "displayName": "rocket-theme",
+    "description": "theme",
+    "version": "0.0.1",
+    "publisher": "alexrqs",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "rocket theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rocket theme-color-theme.json"
+            }
+        ]
+    }
+}
